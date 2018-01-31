@@ -1,0 +1,23 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 160 ciObject found
+instanceKlass org/gradle/api/tasks/SourceSetOutput
+instanceKlass org/codehaus/groovy/runtime/metaclass/ClosureMetaClass$6
+instanceKlass org/jetbrains/plugins/gradle/model/GradleConfiguration
+instanceKlass org/jetbrains/plugins/gradle/model/ExternalTask
+instanceKlass org/jetbrains/plugins/gradle/model/GradleExtension
+instanceKlass org/jetbrains/plugins/gradle/model/GradleProperty
+instanceKlass org/codehaus/groovy/runtime/typehandling/ShortTypeHandling
+instanceKlass org/jetbrains/plugins/gradle/model/DefaultGradleProperty
+instanceKlass org/jetbrains/plugins/gradle/model/GradleExtension
+instanceKlass org/jetbrains/plugins/gradle/model/GradleProperty
+instanceKlass org/codehaus/groovy/runtime/typehandling/NumberMathModificationInfo
+instanceKlass org/codehaus/groovy/runtime/metaclass/ClosureMetaClass$4
+instanceKlass org/jetbrains/plugins/gradle/model/DefaultGradleConfiguration
+instanceKlass org/jetbrains/plugins/gradle/model/GradleConfiguration
+instanceKlass org/jetbrains/plugins/gradle/model/DefaultGradleExtensions
+instanceKlass org/jetbrains/plugins/gradle/model/ExtIdeaContentRoot
+instanceKlass org/jetbrains/plugins/gradle/tooling/internal/IdeaContentRootImpl
+instanceKlass org/jetbrains/plugins/gradle/model/ExtIdeaContentRoot
+instanceKlass org/gradle/tooling/model/idea/IdeaContentRoot
